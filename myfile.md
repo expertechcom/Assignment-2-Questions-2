@@ -1,0 +1,9 @@
+| S/N | Characteristics                                                |
+|-----|---------------------------------------------------------------|
+| 1.  | Decentralization: The advent of Web 3.0 has helped eliminate the dependency on the centralized architecture of Web 2.0 technology, thereby giving rise to networks and protocols such as peer-to-peer networks and blockchain. These enable control, distribution of ownership, and governance of data and applications. |
+| 2.  | Trust and Security: The goals of Web 3.0 technology are to improve trust and security on the internet by leveraging cryptographic techniques, decentralized consensus mechanisms, immutability, transparency, blockchain technology, and data integrity. This reduces the risk of fraud, unauthorized access, and data manipulations. |
+| 3.  | Interoperability: Web 3.0 enables the exchange and use of information across different platforms and applications, facilitating communication and data sharing. It also allows for the integration of different decentralized systems, creating a more connected and cohesive internet ecosystem. |
+| 4.  | User Ownership and Control: Web 3.0 empowers users with ownership and control over their data and digital assets, such as digital collectibles, cryptocurrencies, and digital identities. This characteristic gives individuals greater control in the digital realm. |
+| 5.  | Openness and Collaboration: Web 3.0 fosters an inclusive and participatory internet, enabling individuals, communities, and developers to contribute to the growth and evolution of the web ecosystem. Collaboration is encouraged, leading to innovation and diverse perspectives. |
+| 6.  | Programmability and Smart Contracts: Web 3.0 is capable of self-executing contracts with conditions and predefined rules. This feature enables increased reliability, transparency, and efficiency in areas like supply chain management, finance, and decentralized applications. |
+
